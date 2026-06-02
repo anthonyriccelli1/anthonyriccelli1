@@ -8,7 +8,7 @@ Previously at RTV Engineering, I deployed real-time asset tracking systems (RFID
 
 ---
 
-### 🔧 Tech Stack
+### Tech Stack
 
 **Languages & Frameworks**
 
@@ -36,22 +36,36 @@ Previously at RTV Engineering, I deployed real-time asset tracking systems (RFID
 
 ---
 
-### 📌 Featured Project
+### Featured Projects
 
-**[Vigilance](https://github.com/anthonyriccelli1/vigilance)** — Real-time operational asset tracking dashboard
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A full-stack RFID asset tracking system modeled after the kind of software I deployed at NAVAIR. Built to demonstrate end-to-end DevSecOps capabilities: from live WebSocket data pipelines to containerized deployments with CI/CD.
+#### [Vigilance](https://github.com/anthonyriccelli1/vigilance)
+**Real-time RFID asset tracking dashboard**
+
+Full-stack operational tracking system modeled after software I deployed at NAVAIR. Live WebSocket data pipelines, interactive facility maps with zone drawing, and an AI operations chatbot — all containerized with CI/CD.
 
 `React` `TypeScript` `FastAPI` `PostgreSQL` `Docker` `GitHub Actions` `WebSocket` `Claude API`
 
-- Real-time RFID movement simulation with WebSocket broadcast
-- Interactive facility map with free-form zone drawing
-- AI-powered operations chatbot (Claude) with live database context
-- Dockerized microservices with automated CI/CD pipeline
+</td>
+<td width="50%" valign="top">
+
+#### [OpScout](https://github.com/anthonyriccelli1/rtv-opscout)
+**AI-powered government contract intelligence platform**
+
+Aggregates opportunities from SAM.gov, USASpending, and SEC EDGAR, then scores each lead 0–100 using Claude AI against company-specific criteria. Built to automate the business development pipeline I saw firsthand at RTV Engineering.
+
+`React` `TypeScript` `FastAPI` `SQLite` `Claude API` `SAM.gov` `Tailwind` `Zustand`
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📫 Connect
+### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anthonyjriccelli)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:anthonyriccelli7898@gmail.com)
